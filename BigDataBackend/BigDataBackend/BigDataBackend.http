@@ -1,6 +1,0 @@
-@BigDataBackend_HostAddress = http://localhost:5187
-
-GET {{BigDataBackend_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
