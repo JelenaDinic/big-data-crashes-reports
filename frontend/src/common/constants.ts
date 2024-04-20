@@ -1,0 +1,1 @@
+export const recordsTotal:number = 820867;

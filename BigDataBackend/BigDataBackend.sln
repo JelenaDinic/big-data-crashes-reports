@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BigDataBackend", "BigDataBackend\BigDataBackend.csproj", "{F3B6CF56-9C31-43B2-8BB4-26C93BC62C28}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3B6CF56-9C31-43B2-8BB4-26C93BC62C28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3B6CF56-9C31-43B2-8BB4-26C93BC62C28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3B6CF56-9C31-43B2-8BB4-26C93BC62C28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3B6CF56-9C31-43B2-8BB4-26C93BC62C28}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {851EAF75-DD72-4899-84C3-009E37D78789}
+	EndGlobalSection
+EndGlobal

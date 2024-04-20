@@ -1,0 +1,48 @@
+.navbar {
+    display: flex;
+    justify-content: left;
+    text-align: center;
+    padding-bottom: 20px;
+    padding-top: 10px;
+    border-bottom: 1px solid black;
+    margin-bottom: 10px;
+}
+
+.dashboard_header {
+    font-size: 48px;
+    font-weight: 100;
+    margin-left: 120px;
+}
+
+.dash_dropdown {
+    width: 200px;
+    margin: auto;
+    margin-bottom: 10px;
+}
+
+.container {
+    text-align: center;
+}
+
+.card_wrapper {
+    margin: auto;
+}
+
+.card {
+    margin-bottom: 50px;
+    margin: auto;
+    width: 50vw;
+    height: 80vh;
+}
+
+.card_header {
+    font-size: 20px;
+}
+
+.card_content {
+    height: 90%;
+}
+
+.card_text {
+    font-size: 20px;
+}
